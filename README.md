@@ -1,4 +1,4 @@
-# 3 Nodes Kubernetes-Cluster Using Vagrant 
+# 3 Node Kubernetes-Cluster Using Vagrant 
 We're going to use the kubeadm tool to bootstrap a K8s cluster with a Master node, and two worker nodes on Ubutu 20.04. We will follow K8s best practices as outline in the [kubernetes documentation](https://kubernetes.io)
 
 ## Pre-requisites
